@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="Center" ><img src="https://media.giphy.com/media/xUySTQZfdpSkIIg88M/giphy.gif"></p>
+
+### Hi, I'm Larissa  👋
+
+My name is Larissa, I'm an Android Developer from Brazil 🇧🇷
+
+- 🌱 I’m currently learning AR, Alexa Skills
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/twitter/follow/larissayasin?label=Twitter&style=social)](https://twitter.com/larissayasin)
+&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/larissayasin/)](www.linkedin.com/in/larissayasin) 
 
 <!--
 **larissayasin/larissayasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
