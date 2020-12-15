@@ -4,7 +4,7 @@
 
 I'm an Android Developer from Brazil 🇧🇷
 
-- 🌱 I’m currently learning AR, Alexa Skills
+- 🌱 I’m currently learning AR and Alexa Skills
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/twitter/follow/larissayasin?label=Twitter&style=social)](https://twitter.com/larissayasin)
 &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/larissayasin/)](www.linkedin.com/in/larissayasin) 
 
