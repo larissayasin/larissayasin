@@ -2,7 +2,7 @@
 
 ### Hi, I'm Larissa  👋
 
-My name is Larissa, I'm an Android Developer from Brazil 🇧🇷
+I'm an Android Developer from Brazil 🇧🇷
 
 - 🌱 I’m currently learning AR, Alexa Skills
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/twitter/follow/larissayasin?label=Twitter&style=social)](https://twitter.com/larissayasin)
