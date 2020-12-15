@@ -1,4 +1,4 @@
-<p align="Center" ><img src="https://media.giphy.com/media/xUySTQZfdpSkIIg88M/giphy.gif"></p>
+<img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="40px">
 
 ### Hi, I'm Larissa  👋
 
